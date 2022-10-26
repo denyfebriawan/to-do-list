@@ -1,0 +1,38 @@
+
+.list-todo {
+    border: 2px solid green;
+    border-radius: 5px;
+    width: 300px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 20px;
+    text-align: center;
+}
+
+.btn-todo {
+    padding-top:40px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.del-btn {
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #d9534f;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.done-btn {
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color: #5cb85c;
+    font-size: 20px;
+    cursor: pointer;
+}
